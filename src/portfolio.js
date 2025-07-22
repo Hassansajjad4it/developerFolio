@@ -178,7 +178,7 @@ const workExperiences = {
       company: "Beyond Logics",
       companylogo: require("./assets/images/beyondlogics.png"),
       date: "Feb 2024 – Present",
-      // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "I am working as a Python Django Developer at Beyond Logics, where I specialize in building scalable RESTful APIs and backend systems using Django. I work extensively with PostgreSQL for database design and optimization, and utilize AWS services for cloud deployment and infrastructure management. Additionally, I collaborate on frontend development using modern JavaScript frameworks to deliver end-to-end web solutions.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
