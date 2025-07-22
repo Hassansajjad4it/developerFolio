@@ -176,7 +176,7 @@ const workExperiences = {
     {
       role: "Software Engineer",
       company: "Beyond Logics",
-      // companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/beyondlogics.png"),
       date: "Feb 2024 – Present",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       // descBullets: [
@@ -187,7 +187,7 @@ const workExperiences = {
     {
       role: "Software Engineer",
       company: "Adnare",
-      // companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/adnare.png"),
       date: "May 2021 – Feb 2024",
       desc: "A passionate full-stack developer with 2+ years of experience in the latest technologies, including but not limited to, Python, .Net, Angular, Django, SQL, and AWS. Proficient in agile methodologies and efficient in managing large-scale projects."
     },
@@ -418,8 +418,8 @@ export {
   bigProjects,
   achievementSection,
   blogSection,
-  talkSection,
-  podcastSection,
+  // talkSection,
+  // podcastSection,
   contactInfo,
   twitterDetails,
   isHireable,
